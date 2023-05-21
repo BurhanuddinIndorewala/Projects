@@ -16,3 +16,5 @@ if answer == 'graphics processing unit':
 print(score)
 print("You got {0} answer(s) correct.".format(str(score)))
 print("You got {0}%.".format((score / 2) * 100))
+
+# I wrote this line on Github website
