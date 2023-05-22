@@ -21,7 +21,7 @@ button = tk.Button(
 )
 """
 a_1 = tk.Entry()
-q_1 = tk.Label(text="What does CPU stand for?").place(y=20, x=20)
+q_1 = tk.Label(window, text="What does CPU stand for?").place(y=20, x=20)
 
 a_2 = tk.Entry()
 q_2 = tk.Label(text="What does GPU stand for?").place(y=40, x=20)
